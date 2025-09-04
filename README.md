@@ -74,7 +74,7 @@ weather-now/
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live app](PUT_YOUR_STACKBLITZ_OR_CODESANDBOX_LINK_HERE)
+👉 [Click here to view the live app](https://react-hegraqjy.stackblitz.io)
 
 ---
 
